@@ -1,2 +1,2 @@
-# python-autograder
+# Python Autograder
  
