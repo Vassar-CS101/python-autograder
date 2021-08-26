@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 import unittest
 from gradescope_utils.autograder_utils.json_test_runner import JSONTestRunner
 
